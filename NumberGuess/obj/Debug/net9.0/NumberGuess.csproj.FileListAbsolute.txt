@@ -1,0 +1,14 @@
+/Users/ladopolo/NumberGuess/bin/Debug/net9.0/NumberGuess
+/Users/ladopolo/NumberGuess/bin/Debug/net9.0/NumberGuess.deps.json
+/Users/ladopolo/NumberGuess/bin/Debug/net9.0/NumberGuess.runtimeconfig.json
+/Users/ladopolo/NumberGuess/bin/Debug/net9.0/NumberGuess.dll
+/Users/ladopolo/NumberGuess/bin/Debug/net9.0/NumberGuess.pdb
+/Users/ladopolo/NumberGuess/obj/Debug/net9.0/NumberGuess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ladopolo/NumberGuess/obj/Debug/net9.0/NumberGuess.AssemblyInfoInputs.cache
+/Users/ladopolo/NumberGuess/obj/Debug/net9.0/NumberGuess.AssemblyInfo.cs
+/Users/ladopolo/NumberGuess/obj/Debug/net9.0/NumberGuess.csproj.CoreCompileInputs.cache
+/Users/ladopolo/NumberGuess/obj/Debug/net9.0/NumberGuess.dll
+/Users/ladopolo/NumberGuess/obj/Debug/net9.0/refint/NumberGuess.dll
+/Users/ladopolo/NumberGuess/obj/Debug/net9.0/NumberGuess.pdb
+/Users/ladopolo/NumberGuess/obj/Debug/net9.0/NumberGuess.genruntimeconfig.cache
+/Users/ladopolo/NumberGuess/obj/Debug/net9.0/ref/NumberGuess.dll
