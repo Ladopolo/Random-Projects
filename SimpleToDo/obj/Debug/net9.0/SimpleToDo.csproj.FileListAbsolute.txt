@@ -1,0 +1,14 @@
+/Users/ladopolo/SimpleToDo/bin/Debug/net9.0/SimpleToDo
+/Users/ladopolo/SimpleToDo/bin/Debug/net9.0/SimpleToDo.deps.json
+/Users/ladopolo/SimpleToDo/bin/Debug/net9.0/SimpleToDo.runtimeconfig.json
+/Users/ladopolo/SimpleToDo/bin/Debug/net9.0/SimpleToDo.dll
+/Users/ladopolo/SimpleToDo/bin/Debug/net9.0/SimpleToDo.pdb
+/Users/ladopolo/SimpleToDo/obj/Debug/net9.0/SimpleToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ladopolo/SimpleToDo/obj/Debug/net9.0/SimpleToDo.AssemblyInfoInputs.cache
+/Users/ladopolo/SimpleToDo/obj/Debug/net9.0/SimpleToDo.AssemblyInfo.cs
+/Users/ladopolo/SimpleToDo/obj/Debug/net9.0/SimpleToDo.csproj.CoreCompileInputs.cache
+/Users/ladopolo/SimpleToDo/obj/Debug/net9.0/SimpleToDo.dll
+/Users/ladopolo/SimpleToDo/obj/Debug/net9.0/refint/SimpleToDo.dll
+/Users/ladopolo/SimpleToDo/obj/Debug/net9.0/SimpleToDo.pdb
+/Users/ladopolo/SimpleToDo/obj/Debug/net9.0/SimpleToDo.genruntimeconfig.cache
+/Users/ladopolo/SimpleToDo/obj/Debug/net9.0/ref/SimpleToDo.dll
