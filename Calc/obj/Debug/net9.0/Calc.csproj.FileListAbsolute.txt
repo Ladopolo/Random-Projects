@@ -1,0 +1,14 @@
+/Users/ladopolo/Calc/obj/Debug/net9.0/Calc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ladopolo/Calc/obj/Debug/net9.0/Calc.AssemblyInfoInputs.cache
+/Users/ladopolo/Calc/obj/Debug/net9.0/Calc.AssemblyInfo.cs
+/Users/ladopolo/Calc/obj/Debug/net9.0/Calc.csproj.CoreCompileInputs.cache
+/Users/ladopolo/Calc/bin/Debug/net9.0/Calc
+/Users/ladopolo/Calc/bin/Debug/net9.0/Calc.deps.json
+/Users/ladopolo/Calc/bin/Debug/net9.0/Calc.runtimeconfig.json
+/Users/ladopolo/Calc/bin/Debug/net9.0/Calc.dll
+/Users/ladopolo/Calc/bin/Debug/net9.0/Calc.pdb
+/Users/ladopolo/Calc/obj/Debug/net9.0/Calc.dll
+/Users/ladopolo/Calc/obj/Debug/net9.0/refint/Calc.dll
+/Users/ladopolo/Calc/obj/Debug/net9.0/Calc.pdb
+/Users/ladopolo/Calc/obj/Debug/net9.0/Calc.genruntimeconfig.cache
+/Users/ladopolo/Calc/obj/Debug/net9.0/ref/Calc.dll
