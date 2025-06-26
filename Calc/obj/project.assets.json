@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ladopolo/Calc/Calc.csproj",
+      "projectUniqueName": "/Users/ladopolo/Random Projects/Calc/Calc.csproj",
       "projectName": "Calc",
-      "projectPath": "/Users/ladopolo/Calc/Calc.csproj",
+      "projectPath": "/Users/ladopolo/Random Projects/Calc/Calc.csproj",
       "packagesPath": "/Users/ladopolo/.nuget/packages/",
-      "outputPath": "/Users/ladopolo/Calc/obj/",
+      "outputPath": "/Users/ladopolo/Random Projects/Calc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ladopolo/.nuget/NuGet/NuGet.Config"

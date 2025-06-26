@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ladopolo/Random Projects/Calc/Calc.csproj": {}
+    "/Users/ladopolo/Pong/something.csproj": {}
   },
   "projects": {
-    "/Users/ladopolo/Random Projects/Calc/Calc.csproj": {
+    "/Users/ladopolo/Pong/something.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ladopolo/Random Projects/Calc/Calc.csproj",
-        "projectName": "Calc",
-        "projectPath": "/Users/ladopolo/Random Projects/Calc/Calc.csproj",
+        "projectUniqueName": "/Users/ladopolo/Pong/something.csproj",
+        "projectName": "something",
+        "projectPath": "/Users/ladopolo/Pong/something.csproj",
         "packagesPath": "/Users/ladopolo/.nuget/packages/",
-        "outputPath": "/Users/ladopolo/Random Projects/Calc/obj/",
+        "outputPath": "/Users/ladopolo/Pong/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ladopolo/.nuget/NuGet/NuGet.Config"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Raylib-cs": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
