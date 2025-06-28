@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NKgL8ePj/Io=",
+  "success": true,
+  "projectFilePath": "/Users/ladopolo/Flappy/Flappy.csproj",
+  "expectedPackageFiles": [
+    "/Users/ladopolo/.nuget/packages/microsoft.net.illink.tasks/9.0.3/microsoft.net.illink.tasks.9.0.3.nupkg.sha512",
+    "/Users/ladopolo/.nuget/packages/raylib-cs/7.0.1/raylib-cs.7.0.1.nupkg.sha512",
+    "/Users/ladopolo/.nuget/packages/microsoft.netcore.app.runtime.osx-arm64/9.0.3/microsoft.netcore.app.runtime.osx-arm64.9.0.3.nupkg.sha512",
+    "/Users/ladopolo/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-arm64/9.0.3/microsoft.aspnetcore.app.runtime.osx-arm64.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+/Users/ladopolo/Flappy/bin/Release/net9.0/osx-arm64/publish/Flappy.pdb
+/Users/ladopolo/Flappy/bin/Release/net9.0/osx-arm64/publish/Flappy
